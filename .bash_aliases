@@ -1,0 +1,8 @@
+alias .=" cd .."
+alias ..="cd ../.."
+alias ...="cd ../../.."
+alias ....="cd ../../../.."
+alias gc="bash ~/terminal_practice/gitadd.sh"
+alias md="mkdir"
+alias th="touch"
+alias ax="chmod a+x"
